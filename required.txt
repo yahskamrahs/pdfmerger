@@ -1,0 +1,2 @@
+PyPDF2 module
+>>pip install pypdf2
